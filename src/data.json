@@ -462,7 +462,7 @@
 				"team2": "Kansas",
 				"team2img": "ku.png",
 				"team2seed": "3",
-				"pick": "team2",
+				"pick": "team1",
 				"correct1": "",
 				"correct2": ""
 			},
@@ -661,13 +661,13 @@
 			{
 				"date": "March 27/28",
 				"network": "TBD",
-				"team1": "Kansas",
-				"team1img": "ku.png",
-				"team1seed": "3",
+				"team1": "Southern California",
+				"team1img": "usc.png",
+				"team1seed": "6",
 				"team2": "Iowa",
 				"team2img": "iowa.png",
 				"team2seed": "2",
-				"pick": "team1",
+				"pick": "team2",
 				"correct1": "",
 				"correct2": ""
 			}
@@ -751,7 +751,7 @@
 				"team2": "Houston",
 				"team2img": "hou.png",
 				"team2seed": "2",
-				"pick": "team2",
+				"pick": "team1",
 				"correct1": "",
 				"correct2": ""
 			}
@@ -765,9 +765,9 @@
 				"team1": "Gonzaga",
 				"team1img": "gonz.png",
 				"team1seed": "1",
-				"team2": "Kansas",
-				"team2img": "ku.png",
-				"team2seed": "3",
+				"team2": "Iowa",
+				"team2img": "iowa.png",
+				"team2seed": "2",
 				"pick": "team1",
 				"correct1": "",
 				"correct2": ""
@@ -810,9 +810,9 @@
 				"team1": "Illinois",
 				"team1img": "ill.png",
 				"team1seed": "1",
-				"team2": "Houston",
-				"team2img": "hou.png",
-				"team2seed": "2",
+				"team2": "San Diego St.",
+				"team2img": "sdsu.png",
+				"team2seed": "6",
 				"pick": "team1",
 				"correct1": "",
 				"correct2": ""
@@ -823,7 +823,7 @@
 		"eastwest": [
 			{
 				"date": "April 3",
-				"network": "TBD",
+				"network": "CBS",
 				"team1": "Gonzaga",
 				"team1img": "gonz.png",
 				"team1seed": "1",
@@ -838,7 +838,7 @@
 		"southmidwest": [
 			{
 				"date": "April 3",
-				"network": "TBD",
+				"network": "CBS",
 				"team1": "Ohio St.",
 				"team1img": "osu.png",
 				"team1seed": "2",
@@ -852,7 +852,7 @@
 		],
 		"championship": {
 			"date": "April 5",
-			"network": "TBD",
+			"network": "CBS",
 			"team1": "Gonzaga",
 			"team1img": "gonz.png",
 			"team1seed": "1",
