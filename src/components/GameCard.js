@@ -20,7 +20,17 @@ const GameCard = ({ gameData }) => {
 							<span className="team-seed bg-dark-light font-weight-semi-bold text-muted">
 								{gameData.team1seed}
 							</span>
-							{gameData.team1}
+							<span
+								className={
+									gameData.correct1 === "yes"
+										? "correct"
+										: gameData.correct1 === "no"
+										? "wrong"
+										: ""
+								}
+							>
+								{gameData.team1}
+							</span>
 							{gameData.pick === "team1" ? (
 								<span
 									className="josh-prediction"
@@ -49,7 +59,17 @@ const GameCard = ({ gameData }) => {
 							<span className="team-seed bg-dark-light font-weight-semi-bold text-muted">
 								{gameData.team2seed}
 							</span>
-							{gameData.team2}
+							<span
+								className={
+									gameData.correct2 === "yes"
+										? "correct"
+										: gameData.correct2 === "no"
+										? "wrong"
+										: ""
+								}
+							>
+								{gameData.team2}
+							</span>
 							{gameData.pick === "team2" ? (
 								<span
 									className="josh-prediction"

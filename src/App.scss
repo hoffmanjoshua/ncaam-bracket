@@ -74,3 +74,12 @@ h2 {
 	user-select: none;
 	-webkit-user-drag: none;
 }
+
+.correct {
+	color: rgb(32, 136, 0);
+}
+
+.wrong {
+	color: rgb(226, 0, 0);
+	text-decoration: line-through;
+}
