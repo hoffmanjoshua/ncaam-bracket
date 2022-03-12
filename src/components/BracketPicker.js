@@ -1,7 +1,6 @@
-import { useState } from "react";
 import {Link} from "react-router-dom"
 
-function BracketPicker({type}) {
+function BracketPicker() {
 	
 	return (
 		<>
