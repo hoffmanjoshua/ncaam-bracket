@@ -8,11 +8,20 @@ import S16 from "./S16";
 import E8 from "./E8";
 import F4 from "./F4";
 
-import data from "../brackets/2022.json";
+import data_current from "../brackets/2022.json";
+import data_2021 from "../brackets/2021.json";
 
 function Bracket() {
 	const [page, setPage] = useState("R64");
 	let params = useParams()
+	
+	let data = data_current
+
+	if (params.year) {
+		data = data_2021
+	} else {
+		data = data_current
+	}
 
 	function switchRound(pageVal) {
 		setPage(pageVal);
