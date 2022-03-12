@@ -1,0 +1,873 @@
+{
+	"info": {
+		"year": 2022,
+		"name": "Josh",
+		"final_four_emoji": "⚜️",
+		"tournament": "ncaam"
+	},
+	"r64": {
+		"west": [
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "1",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "16",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "8",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "9",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "5",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "12",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "4",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "13",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "6",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "11",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "3",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "14",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "7",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "10",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "2",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "15",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			}
+		],
+		"east": [
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "1",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "16",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "8",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "9",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "5",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "12",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "4",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "13",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "6",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "11",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "3",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "14",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "7",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "10",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "2",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "15",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			}
+		],
+		"south": [
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "1",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "16",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "8",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "9",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "5",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "12",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "4",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "13",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "6",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "11",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "3",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "14",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "7",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "10",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "2",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "15",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			}
+		],
+		"midwest": [
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "1",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "16",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "8",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "9",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "5",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "12",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "4",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "13",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "6",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "11",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "3",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "14",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "7",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "10",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "2",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "15",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			}
+		]
+	},
+	"r32": {
+		"west": [
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "X",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "X",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "X",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "X",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "X",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "X",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "X",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "X",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			}
+		],
+		"east": [
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "X",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "X",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "X",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "X",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "X",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "X",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "X",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "X",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			}
+		],
+		"south": [
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "X",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "X",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "X",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "X",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "X",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "X",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "X",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "X",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			}
+		],
+		"midwest": [
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "X",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "X",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "X",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "X",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "X",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "X",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "X",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "X",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			}
+		]
+	},
+	"s16": {
+		"west": [
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "X",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "X",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "X",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "X",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			}
+		],
+		"east": [
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "X",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "X",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "X",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "X",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			}
+		],
+		"south": [
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "X",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "X",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "X",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "X",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			}
+		],
+		"midwest": [
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "X",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "X",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "X",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "X",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			}
+		]
+	},
+	"e8": {
+		"west": [
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "X",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "X",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			}
+		],
+		"east": [
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "X",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "X",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			}
+		],
+		"south": [
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "X",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "X",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			}
+		],
+		"midwest": [
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "X",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "X",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			}
+		]
+	},
+	"f4": {
+		"eastwest": [
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "X",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "X",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			}
+		],
+		"southmidwest": [
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Team 1",
+				"team1img": "ncaa.png",
+				"team1seed": "X",
+				"team2": "Team 2",
+				"team2img": "ncaa.png",
+				"team2seed": "X",
+				"pick": "",
+				"correct1": "",
+				"correct2": ""
+			}
+		],
+		"championship": {
+			"date": "TBD",
+			"network": "TBD",
+			"team1": "Team 1",
+			"team1img": "ncaa.png",
+			"team1seed": "X",
+			"team2": "Team 2",
+			"team2img": "ncaa.png",
+			"team2seed": "X",
+			"pick": "",
+			"correct1": "",
+			"correct2": ""
+		}
+	}
+}

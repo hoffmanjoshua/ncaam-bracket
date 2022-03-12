@@ -10,8 +10,7 @@ import F4 from "./components/F4.js";
 
 import bracket from "./bracket-icon.png";
 
-//data
-import data from "./data.json";
+import data from "./2022-ncaam.json";
 
 function App() {
 	const [page, setPage] = useState("R64");
@@ -39,11 +38,11 @@ function App() {
 
 	return (
 		<div className="App container-fluid">
-			<h1 className="font-weight-semi-bold">Josh's 2021 NCAAM Bracket</h1>
+			<h1 className="font-weight-semi-bold">{data.info.name}&#39;s {data.info.year} {data.info.tournament.toUpperCase()} Bracket</h1>
 			<div className="flex">
 				<div
 					class="btn-group m-auto"
-					role="group"
+					role="group" 
 					aria-label="Basic example"
 				>
 					<button
