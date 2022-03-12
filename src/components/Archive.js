@@ -1,9 +1,20 @@
 import {Link} from 'react-router-dom'
 
-// Components
+import w_archive from "../brackets/ncaaw_archive.json";
+import m_archive from "../brackets/ncaam_archive.json";
 
 function Archive() {
-
+	
+	let archive = []
+	for (const year in w_archive) {
+		archive.push({"type": "NCAAW", "year": year, "path": "/w/" + year})
+	}
+	for (const year in m_archive) {
+		archive.push({"type": "NCAAM", "year": year, "path": "/m/" + year})
+	}
+	archive.sort((a, b) => (a.year > b.year) ? 1 : -1)
+	
+	
 	return (
 		<>
 			<h1 className="font-weight-semi-bold">
@@ -28,16 +39,13 @@ function Archive() {
 						<td>NCAAW</td>
 						<td class="text-right"><Link className="btn" to="/w">Load</Link></td>
 					</tr>
-					<tr>
-						<td>2021</td>
-						<td>NCAAM</td>
-						<td class="text-right"><Link className="btn" to="/m/2021">Load</Link></td>
-					</tr>
-					<tr>
-						<td>2021</td>
-						<td>NCAAW</td>
-						<td class="text-right"><Link className="btn" to="/w/2021">Load</Link></td>
-					</tr>
+					{archive.map((entry, index) => 
+						<tr>
+							<td>{entry.year}</td>
+							<td>{entry.type}</td>
+							<td class="text-right"><Link className="btn" to={entry.path}>Load</Link></td>
+						</tr>
+					)}
 				</tbody>
 			</table>
 		</>
