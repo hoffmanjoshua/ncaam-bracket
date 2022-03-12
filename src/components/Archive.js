@@ -1,13 +1,8 @@
-import { useState } from "react";
 import {Link} from 'react-router-dom'
 
 // Components
 
 function Archive() {
-	const [page, setPage] = useState("R64");
-	function switchRound(pageVal) {
-		setPage(pageVal);
-	}
 
 	return (
 		<>

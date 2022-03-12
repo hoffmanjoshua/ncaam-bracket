@@ -105,33 +105,6 @@ function Bracket({type}) {
 				</div>
 			</div>
 						
-						<div class="modal" id="modal-2" tabindex="-1" role="dialog">
-							<div class="modal-dialog" role="document">
-								<div class="modal-content">
-									<a href="#" class="btn close" role="button" aria-label="Close">
-										<span aria-hidden="true">&times;</span>
-									</a>
-									<h5 class="modal-title">Bracket Archive</h5>
-									<table class="table">
-										<thead>
-											<tr>
-												<th>Year</th>
-												<th>Tournament</th>
-												<th class="text-right"></th>
-											</tr>
-										</thead>
-										<tbody>
-											<tr>
-												<td>2021</td>
-												<td>NCAAM</td>
-												<td class="text-right"><button className="btn">Load</button></td>
-											</tr>
-										</tbody>
-									</table>
-								</div>
-							</div>
-						</div>
-						
 			<div>{getPage()}</div>
 		</>
 	);
