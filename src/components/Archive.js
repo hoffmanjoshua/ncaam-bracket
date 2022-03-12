@@ -1,4 +1,5 @@
 import { useState } from "react";
+import {Link} from 'react-router-dom'
 
 // Components
 
@@ -25,12 +26,12 @@ function Archive() {
 					<tr>
 						<td>2022</td>
 						<td>NCAAM</td>
-						<td class="text-right"><button className="btn">Load</button></td>
+						<td class="text-right"><Link className="btn" to="/">Load</Link></td>
 					</tr>
 					<tr>
 						<td>2021</td>
 						<td>NCAAM</td>
-						<td class="text-right"><button className="btn">Load</button></td>
+						<td class="text-right"><Link className="btn" to="/2021">Load</Link></td>
 					</tr>
 				</tbody>
 			</table>
