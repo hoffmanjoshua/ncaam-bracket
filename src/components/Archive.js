@@ -26,12 +26,17 @@ function Archive() {
 					<tr>
 						<td>2022</td>
 						<td>NCAAM</td>
-						<td class="text-right"><Link className="btn" to="/">Load</Link></td>
+						<td class="text-right"><Link className="btn" to="/m">Load</Link></td>
+					</tr>
+					<tr>
+						<td>2022</td>
+						<td>NCAAW</td>
+						<td class="text-right"><Link className="btn" to="/w">Load</Link></td>
 					</tr>
 					<tr>
 						<td>2021</td>
 						<td>NCAAM</td>
-						<td class="text-right"><Link className="btn" to="/2021">Load</Link></td>
+						<td class="text-right"><Link className="btn" to="/m/2021-m">Load</Link></td>
 					</tr>
 				</tbody>
 			</table>

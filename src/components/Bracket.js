@@ -8,19 +8,22 @@ import S16 from "./S16";
 import E8 from "./E8";
 import F4 from "./F4";
 
-import data_current from "../brackets/2022.json";
-import data_2021 from "../brackets/2021.json";
+import data_m_current from "../brackets/2022_ncaam.json";
+import data_w_current from "../brackets/2022_ncaaw.json";
+import data_m_2021 from "../brackets/2021_ncaam.json";
 
 function Bracket() {
 	const [page, setPage] = useState("R64");
 	let params = useParams()
 	
-	let data = data_current
+	let data = data_m_current
 
-	if (params.year) {
-		data = data_2021
+	if (params.bracket === "m_2021") {
+		data = data_m_2021
+	} else if (params.bracket === "w") {
+		data = data_w_current
 	} else {
-		data = data_current
+		data = data_m_current
 	}
 
 	function switchRound(pageVal) {
