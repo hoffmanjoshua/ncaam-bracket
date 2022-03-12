@@ -1,5 +1,5 @@
 import { useState } from "react";
-import {useParams} from "react-router-dom"
+import {useParams, useNavigate} from "react-router-dom"
 
 // Components
 import R64 from "./R64";
@@ -8,22 +8,35 @@ import S16 from "./S16";
 import E8 from "./E8";
 import F4 from "./F4";
 
-import data_m_current from "../brackets/2022_ncaam.json";
-import data_w_current from "../brackets/2022_ncaaw.json";
-import data_m_2021 from "../brackets/2021_ncaam.json";
+import data_m_current from "../brackets/ncaam.json";
+import data_w_current from "../brackets/ncaaw.json";
+import w_archive from "../brackets/ncaaw_archive.json";
+import m_archive from "../brackets/ncaam_archive.json";
 
-function Bracket() {
+function Bracket({type}) {
 	const [page, setPage] = useState("R64");
 	let params = useParams()
+	let navigate = useNavigate();
 	
-	let data = data_m_current
-
-	if (params.bracket === "m_2021") {
-		data = data_m_2021
-	} else if (params.bracket === "w") {
-		data = data_w_current
+	let data = type === "m" ? data_m_current : data_w_current
+	
+	if (params.year) {
+		let yr = params.year
+		if (type === "m") {
+			if (m_archive[yr] !== undefined) {
+				data = m_archive[yr]
+			} else {
+				navigate("/m", { replace: true });
+			}
+		} else {
+			if (w_archive[yr] !== undefined) {
+				data = w_archive[yr]
+			} else {
+				navigate("/w", { replace: true });
+			}
+		}
 	} else {
-		data = data_m_current
+		data = type === "m" ? data_m_current : data_w_current
 	}
 
 	function switchRound(pageVal) {

@@ -36,7 +36,12 @@ function Archive() {
 					<tr>
 						<td>2021</td>
 						<td>NCAAM</td>
-						<td class="text-right"><Link className="btn" to="/m/2021-m">Load</Link></td>
+						<td class="text-right"><Link className="btn" to="/m/2021">Load</Link></td>
+					</tr>
+					<tr>
+						<td>2021</td>
+						<td>NCAAW</td>
+						<td class="text-right"><Link className="btn" to="/w/2021">Load</Link></td>
 					</tr>
 				</tbody>
 			</table>

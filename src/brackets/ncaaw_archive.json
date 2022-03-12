@@ -1,0 +1,749 @@
+{
+	"2021": {
+		"info": {
+			"year": 2021,
+			"name": "Josh",
+			"final_four_emoji": "🏀",
+			"tournament": "ncaaw"
+		},
+		"r64": {
+			"south": [
+				{
+					"date": "March 21",
+					"network": "ESPN",
+					"team1": "Stanford",
+					"team1img": "stan.png",
+					"team1seed": "1",
+					"team2": "Utah Valley",
+					"team2img": "uvu.png",
+					"team2seed": "16",
+					"pick": "team1"
+				},
+				{
+					"date": "March 21",
+					"network": "ESPN2",
+					"team1": "Oklahoma St",
+					"team1img": "okst.png",
+					"team1seed": "8",
+					"team2": "Wake Forest",
+					"team2img": "wake.png",
+					"team2seed": "9",
+					"pick": "team1"
+				},
+				{
+					"date": "March 22",
+					"network": "ESPNU",
+					"team1": "Missouri St.",
+					"team1img": "mosu.png",
+					"team1seed": "5",
+					"team2": "UC Davis",
+					"team2img": "ucd.png",
+					"team2seed": "12",
+					"pick": "team1"
+				},
+				{
+					"date": "March 22",
+					"network": "ESPN",
+					"team1": "Arkansas",
+					"team1img": "ark.png",
+					"team1seed": "4",
+					"team2": "Wright St.",
+					"team2img": "wrst.png",
+					"team2seed": "13",
+					"pick": "team1"
+				},
+				{
+					"date": "March 22",
+					"network": "ESPN2",
+					"team1": "Oregon",
+					"team1img": "ore.png",
+					"team1seed": "6",
+					"team2": "South Dakota",
+					"team2img": "sdak.png",
+					"team2seed": "11",
+					"pick": "team1"
+				},
+				{
+					"date": "March 22",
+					"network": "ESPN2",
+					"team1": "Georgia",
+					"team1img": "uga.png",
+					"team1seed": "3",
+					"team2": "Drexel",
+					"team2img": "drex.png",
+					"team2seed": "14",
+					"pick": "team1"
+				},
+				{
+					"date": "March 22",
+					"network": "ESPNU",
+					"team1": "Northwestern",
+					"team1img": "nw.png",
+					"team1seed": "7",
+					"team2": "UCF",
+					"team2img": "ucf.png",
+					"team2seed": "10",
+					"pick": "team1"
+				},
+				{
+					"date": "March 22",
+					"network": "ESPN",
+					"team1": "Louisville",
+					"team1img": "lou.png",
+					"team1seed": "2",
+					"team2": "Marist",
+					"team2img": "mrst.png",
+					"team2seed": "15",
+					"pick": "team1"
+				}
+			],
+			"midwest": [
+				{
+					"date": "March 21",
+					"network": "ESPN",
+					"team2": "Mercer",
+					"team2img": "mer.png",
+					"team2seed": "16",
+					"team1": "South Carolina",
+					"team1img": "sc.png",
+					"team1seed": "1",
+					"pick": "team1"
+				},
+				{
+					"date": "March 21",
+					"network": "ESPN2",
+					"team2": "Florida St",
+					"team2img": "fsu.png",
+					"team2seed": "9",
+					"team1": "Oregon St.",
+					"team1img": "orst.png",
+					"team1seed": "8",
+					"pick": "team2"
+				},
+				{
+					"date": "March 21",
+					"network": "ESPNU",
+					"team2": "SFA",
+					"team2img": "sfa.png",
+					"team2seed": "12",
+					"team1": "Georgia Tech",
+					"team1img": "gt.png",
+					"team1seed": "5",
+					"pick": "team2"
+				},
+				{
+					"date": "March 21",
+					"network": "ESPNU",
+					"team2": "Lehigh",
+					"team2img": "leh.png",
+					"team2seed": "13",
+					"team1": "West Virginia",
+					"team1img": "wvu.png",
+					"team1seed": "4",
+					"pick": "team1"
+				},
+				{
+					"date": "March 22",
+					"network": "ESPN2",
+					"team2": "Bradley",
+					"team2img": "brad.png",
+					"team2seed": "11",
+					"team1": "Texas",
+					"team1img": "tex.png",
+					"team1seed": "6",
+					"pick": "team1"
+				},
+				{
+					"date": "March 22",
+					"network": "ESPN",
+					"team2": "Wyoming",
+					"team2img": "wyo.png",
+					"team2seed": "14",
+					"team1": "UCLA",
+					"team1img": "ucla.png",
+					"team1seed": "3",
+					"pick": "team1"
+				},
+				{
+					"date": "March 22",
+					"network": "ESPN",
+					"team2": "North Carolina",
+					"team2img": "unc.png",
+					"team2seed": "10",
+					"team1": "Alabama",
+					"team1img": "ala.png",
+					"team1seed": "7",
+					"pick": "team2"
+				},
+				{
+					"date": "March 22",
+					"network": "ESPN",
+					"team2": "Mount St. Mary's",
+					"team2img": "msm.png",
+					"team2seed": "15",
+					"team1": "Maryland",
+					"team1img": "md.png",
+					"team1seed": "2",
+					"pick": "team1"
+				}
+			],
+			"east": [
+				{
+					"date": "March 21",
+					"network": "ESPN",
+					"team1": "UConn",
+					"team1img": "conn.png",
+					"team1seed": "1",
+					"team2": "High Point",
+					"team2img": "hp.png",
+					"team2seed": "16",
+					"pick": "team1"
+				},
+				{
+					"date": "March 21",
+					"network": "ESPN2",
+					"team1": "Syracuse",
+					"team1img": "syr.png",
+					"team1seed": "8",
+					"team2": "South Dakota",
+					"team2img": "sdst.png",
+					"team2seed": "9",
+					"pick": "team2"
+				},
+				{
+					"date": "March 21",
+					"network": "ESPN",
+					"team1": "Iowa",
+					"team1img": "iowa.png",
+					"team1seed": "5",
+					"team2": "Central Mich.",
+					"team2img": "cmu.png",
+					"team2seed": "12",
+					"pick": "team1"
+				},
+				{
+					"date": "March 21",
+					"network": "ESPN",
+					"team1": "Kentucky",
+					"team1img": "uk.png",
+					"team1seed": "4",
+					"team2": "Idaho St.",
+					"team2img": "idst.png",
+					"team2seed": "13",
+					"pick": "team1"
+				},
+				{
+					"date": "March 21",
+					"network": "ESPN2",
+					"team1": "Michigan",
+					"team1img": "mich.png",
+					"team1seed": "6",
+					"team2": "FGCU",
+					"team2img": "fgcu.png",
+					"team2seed": "11",
+					"pick": "team1"
+				},
+				{
+					"date": "March 21",
+					"network": "ABC",
+					"team1": "Tennessee",
+					"team1img": "tenn.png",
+					"team1seed": "3",
+					"team2": "Middle Tennessee",
+					"team2img": "mtu.png",
+					"team2seed": "14",
+					"pick": "team1"
+				},
+				{
+					"date": "March 21",
+					"network": "ESPNU",
+					"team1": "Virginia Tech",
+					"team1img": "vt.png",
+					"team1seed": "7",
+					"team2": "Marquette",
+					"team2img": "marq.png",
+					"team2seed": "10",
+					"pick": "team1"
+				},
+				{
+					"date": "March 21",
+					"network": "ABC",
+					"team1": "Baylor",
+					"team1img": "bay.png",
+					"team1seed": "2",
+					"team2": "Jackson St.",
+					"team2img": "jkst.png",
+					"team2seed": "15",
+					"pick": "team1"
+				}
+			],
+			"west": [
+				{
+					"date": "March 21",
+					"network": "ESPN",
+					"team1": "NC State",
+					"team1img": "ncst.png",
+					"team1seed": "1",
+					"team2": "N.C. A&T",
+					"team2img": "ncat.png",
+					"team2seed": "16",
+					"pick": "team1"
+				},
+				{
+					"date": "March 21",
+					"network": "ESPN2",
+					"team1": "South Fla.",
+					"team1img": "usf.png",
+					"team1seed": "8",
+					"team2": "Washington St.",
+					"team2img": "wsu.png",
+					"team2seed": "9",
+					"pick": "team1"
+				},
+				{
+					"date": "March 22",
+					"network": "ESPN2",
+					"team1": "Gonzaga",
+					"team1img": "gonz.png",
+					"team1seed": "5",
+					"team2": "Belmont",
+					"team2img": "bel.png",
+					"team2seed": "12",
+					"pick": "team1"
+				},
+				{
+					"date": "March 22",
+					"network": "ESPNU",
+					"team1": "Indiana",
+					"team1img": "iu.png",
+					"team1seed": "4",
+					"team2": "VCU",
+					"team2img": "vcu.png",
+					"team2seed": "13",
+					"pick": "team1"
+				},
+				{
+					"date": "March 22",
+					"network": "ESPNU",
+					"team1": "Rutgers",
+					"team1img": "rutg.png",
+					"team1seed": "6",
+					"team2": "BYU",
+					"team2img": "byu.png",
+					"team2seed": "11",
+					"pick": "team1"
+				},
+				{
+					"date": "March 22",
+					"network": "ESPN2",
+					"team1": "Arizona",
+					"team1img": "ariz.png",
+					"team1seed": "3",
+					"team2": "Stony Brook",
+					"team2img": "stbk.png",
+					"team2seed": "14",
+					"pick": "team1"
+				},
+				{
+					"date": "March 22",
+					"network": "ESPN",
+					"team1": "Iowa St.",
+					"team1img": "isu.png",
+					"team1seed": "7",
+					"team2": "Michigan St.",
+					"team2img": "msu.png",
+					"team2seed": "10",
+					"pick": "team2"
+				},
+				{
+					"date": "March 22",
+					"network": "ESPN2",
+					"team1": "Texas A&M",
+					"team1img": "tamu.png",
+					"team1seed": "2",
+					"team2": "Troy",
+					"team2img": "troy.png",
+					"team2seed": "15",
+					"pick": "team1"
+				}
+			]
+		},
+		"r32": {
+			"south": [
+				{
+					"date": "March 23/24",
+					"network": "TBD",
+					"team1": "Stanford",
+					"team1img": "stan.png",
+					"team1seed": "1",
+					"team2": "Oklahoma St",
+					"team2img": "okst.png",
+					"team2seed": "8",
+					"pick": "team1"
+				},
+				{
+					"date": "March 23/24",
+					"network": "TBD",
+					"team1": "Missouri St.",
+					"team1img": "mosu.png",
+					"team1seed": "5",
+					"team2": "Arkansas",
+					"team2img": "ark.png",
+					"team2seed": "4",
+					"pick": "team2"
+				},
+				{
+					"date": "March 23/24",
+					"network": "TBD",
+					"team1": "Oregon",
+					"team1img": "ore.png",
+					"team1seed": "6",
+					"team2": "Georgia",
+					"team2img": "uga.png",
+					"team2seed": "3",
+					"pick": "team2"
+				},
+				{
+					"date": "March 23/24",
+					"network": "TBD",
+					"team1": "Northwestern",
+					"team1img": "nw.png",
+					"team1seed": "7",
+					"team2": "Louisville",
+					"team2img": "lou.png",
+					"team2seed": "2",
+					"pick": "team1"
+				}
+			],
+			"midwest": [
+				{
+					"date": "March 23/24",
+					"network": "TBD",
+					"team1": "South Carolina",
+					"team1img": "sc.png",
+					"team1seed": "1",
+					"team2": "Florids State",
+					"team2img": "fsu.png",
+					"team2seed": "9",
+					"pick": "team1"
+				},
+				{
+					"date": "March 23/24",
+					"network": "TBD",
+					"team1": "SFA",
+					"team1img": "sfa.png",
+					"team1seed": "12",
+					"team2": "West Virginia",
+					"team2img": "wvu.png",
+					"team2seed": "4",
+					"pick": "team2"
+				},
+				{
+					"date": "March 23/24",
+					"network": "TBD",
+					"team1": "Texas",
+					"team1img": "tex.png",
+					"team1seed": "6",
+					"team2": "UCLA",
+					"team2img": "ucla.png",
+					"team2seed": "3",
+					"pick": "team2"
+				},
+				{
+					"date": "March 23/24",
+					"network": "TBD",
+					"team1": "North Carolina",
+					"team1img": "unc.png",
+					"team1seed": "10",
+					"team2": "Maryland",
+					"team2img": "md.png",
+					"team2seed": "2",
+					"pick": "team2"
+				}
+			],
+			"east": [
+				{
+					"date": "March 23/24",
+					"network": "TBD",
+					"team1": "UConn",
+					"team1img": "conn.png",
+					"team1seed": "1",
+					"team2": "South Dakota",
+					"team2img": "sdak.png",
+					"team2seed": "9",
+					"pick": "team1"
+				},
+				{
+					"date": "March 23/24",
+					"network": "TBD",
+					"team1": "Iowa",
+					"team1img": "iowa.png",
+					"team1seed": "5",
+					"team2": "Kentucky",
+					"team2img": "uk.png",
+					"team2seed": "4",
+					"pick": "team1"
+				},
+				{
+					"date": "March 23/24",
+					"network": "TBD",
+					"team1": "Michigan",
+					"team1img": "mich.png",
+					"team1seed": "6",
+					"team2": "Tennessee",
+					"team2img": "tenn.png",
+					"team2seed": "3",
+					"pick": "team2"
+				},
+				{
+					"date": "March 23/24",
+					"network": "TBD",
+					"team1": "Virginia Tech",
+					"team1img": "vt.png",
+					"team1seed": "7",
+					"team2": "Baylor",
+					"team2img": "bay.png",
+					"team2seed": "2",
+					"pick": "team2"
+				}
+			],
+			"west": [
+				{
+					"date": "March 23/24",
+					"network": "TBD",
+					"team1": "NC State",
+					"team1img": "ncst.png",
+					"team1seed": "1",
+					"team2": "South Fla.",
+					"team2img": "usf.png",
+					"team2seed": "8",
+					"pick": "team1"
+				},
+				{
+					"date": "March 23/24",
+					"network": "TBD",
+					"team1": "Gonzaga",
+					"team1img": "gonz.png",
+					"team1seed": "5",
+					"team2": "Indiana",
+					"team2img": "iu.png",
+					"team2seed": "4",
+					"pick": "team2"
+				},
+				{
+					"date": "March 23/24",
+					"network": "TBD",
+					"team1": "Rutgers",
+					"team1img": "rutg.png",
+					"team1seed": "6",
+					"team2": "Arizona",
+					"team2img": "ariz.png",
+					"team2seed": "3",
+					"pick": "team1"
+				},
+				{
+					"date": "March 23/24",
+					"network": "TBD",
+					"team1": "Michigan St.",
+					"team1img": "msu.png",
+					"team1seed": "10",
+					"team2": "Texas A&M",
+					"team2img": "tamu.png",
+					"team2seed": "2",
+					"pick": "team2"
+				}
+			]
+		},
+		"s16": {
+			"south": [
+				{
+					"date": "March 27/28",
+					"network": "TBD",
+					"team1": "Stanford",
+					"team1img": "stan.png",
+					"team1seed": "1",
+					"team2": "Arkansas",
+					"team2img": "ark.png",
+					"team2seed": "4",
+					"pick": "team1"
+				},
+				{
+					"date": "March 27/28",
+					"network": "TBD",
+					"team1": "Georgia",
+					"team1img": "uga.png",
+					"team1seed": "3",
+					"team2": "Northwestern",
+					"team2img": "nw.png",
+					"team2seed": "7",
+					"pick": "team2"
+				}
+			],
+			"midwest": [
+				{
+					"date": "March 27/28",
+					"network": "TBD",
+					"team1": "South Carolina",
+					"team1img": "sc.png",
+					"team1seed": "1",
+					"team2": "West Virginia",
+					"team2img": "wvu.png",
+					"team2seed": "4",
+					"pick": "team1"
+				},
+				{
+					"date": "March 27/28",
+					"network": "TBD",
+					"team1": "UCLA",
+					"team1img": "ucla.png",
+					"team1seed": "3",
+					"team2": "Maryland",
+					"team2img": "md.png",
+					"team2seed": "2",
+					"pick": "team2"
+				}
+			],
+			"east": [
+				{
+					"date": "March 27/28",
+					"network": "TBD",
+					"team1": "UConn",
+					"team1img": "conn.png",
+					"team1seed": "1",
+					"team2": "Iowa",
+					"team2img": "iowa.png",
+					"team2seed": "5",
+					"pick": "team1"
+				},
+				{
+					"date": "March 27/28",
+					"network": "TBD",
+					"team1": "Tennessee",
+					"team1img": "tenn.png",
+					"team1seed": "3",
+					"team2": "Baylor",
+					"team2img": "bay.png",
+					"team2seed": "2",
+					"pick": "team1"
+				}
+			],
+			"west": [
+				{
+					"date": "March 27/28",
+					"network": "TBD",
+					"team1": "NC State",
+					"team1img": "ncst.png",
+					"team1seed": "1",
+					"team2": "Indiana",
+					"team2img": "iu.png",
+					"team2seed": "4",
+					"pick": "team1"
+				},
+				{
+					"date": "March 27/28",
+					"network": "TBD",
+					"team1": "Rutgers",
+					"team1img": "rutg.png",
+					"team1seed": "6",
+					"team2": "Texas A&M",
+					"team2img": "tamu.png",
+					"team2seed": "2",
+					"pick": "team2"
+				}
+			]
+		},
+		"e8": {
+			"south": [
+				{
+					"date": "March 29/30",
+					"network": "TBD",
+					"team1": "Stanford",
+					"team1img": "stan.png",
+					"team1seed": "1",
+					"team2": "Northwestern",
+					"team2img": "nw.png",
+					"team2seed": "7",
+					"pick": "team1"
+				}
+			],
+			"midwest": [
+				{
+					"date": "March 29/30",
+					"network": "TBD",
+					"team1": "South Carolina",
+					"team1img": "sc.png",
+					"team1seed": "1",
+					"team2": "Maryland",
+					"team2img": "md.png",
+					"team2seed": "2",
+					"pick": "team1"
+				}
+			],
+			"east": [
+				{
+					"date": "March 29/30",
+					"network": "TBD",
+					"team1": "UConn",
+					"team1img": "conn.png",
+					"team1seed": "1",
+					"team2": "Tennessee",
+					"team2img": "tenn.png",
+					"team2seed": "3",
+					"pick": "team1"
+				}
+			],
+			"west": [
+				{
+					"date": "March 29/30",
+					"network": "TBD",
+					"team1": "NC State",
+					"team1img": "ncst.png",
+					"team1seed": "1",
+					"team2": "Texas A&M",
+					"team2img": "tamu.png",
+					"team2seed": "2",
+					"pick": "team2"
+				}
+			]
+		},
+		"f4": {
+			"southmidwest": [
+				{
+					"date": "April 2",
+					"network": "ESPN",
+					"team1": "Stanford",
+					"team1img": "stan.png",
+					"team1seed": "1",
+					"team2": "South Carolina",
+					"team2img": "sc.png",
+					"team2seed": "1",
+					"pick": "team1"
+				}
+			],
+			"eastwest": [
+				{
+					"date": "April 2",
+					"network": "ESPN",
+					"team1": "UConn",
+					"team1img": "conn.png",
+					"team1seed": "1",
+					"team2": "Texas A&M",
+					"team2img": "tamu.png",
+					"team2seed": "2",
+					"pick": "team1"
+				}
+			],
+			"championship": {
+				"date": "April 4",
+				"network": "ESPN",
+				"team1": "Stanford",
+				"team1img": "stan.png",
+				"team1seed": "1",
+				"team2": "UConn",
+				"team2img": "conn.png",
+				"team2seed": "1",
+				"pick": "team1"
+			}
+		}
+	}
+}
