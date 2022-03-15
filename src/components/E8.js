@@ -5,26 +5,26 @@ const E8 = ({ data }) => {
 	return (
 		<div className="row">
 			<div className="col-lg-3 col-md-6 col-sm-12">
-				<h2>West</h2>
-				{data.e8.west.map((game, index) => (
+				<h2>{data.info.regions[0]}</h2>
+				{data.e8[data.info.regions[0]].map((game, index) => (
 					<GameCard gameData={game}></GameCard>
 				))}
 			</div>
 			<div className="col-lg-3 col-md-6 col-sm-12">
-				<h2>East</h2>
-				{data.e8.east.map((game, index) => (
+				<h2>{data.info.regions[1]}</h2>
+				{data.e8[data.info.regions[1]].map((game, index) => (
 					<GameCard gameData={game}></GameCard>
 				))}
 			</div>
 			<div className="col-lg-3 col-md-6 col-sm-12">
-				<h2>South</h2>
-				{data.e8.south.map((game, index) => (
+				<h2>{data.info.regions[2]}</h2>
+				{data.e8[data.info.regions[2]].map((game, index) => (
 					<GameCard gameData={game}></GameCard>
 				))}
 			</div>
 			<div className="col-lg-3 col-md-6 col-sm-12">
-				<h2>Midwest</h2>
-				{data.e8.midwest.map((game, index) => (
+				<h2>{data.info.regions[3]}</h2>
+				{data.e8[data.info.regions[3]].map((game, index) => (
 					<GameCard gameData={game}></GameCard>
 				))}
 			</div>

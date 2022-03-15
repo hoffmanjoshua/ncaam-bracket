@@ -4,10 +4,11 @@
 			"year": 2021,
 			"name": "Josh",
 			"final_four_emoji": "🏀",
-			"tournament": "ncaam"
+			"tournament": "ncaam",
+			"regions": ["East", "West", "South", "Midwest"]
 		},
 		"r64": {
-			"west": [
+			"West": [
 				{
 					"date": "March 20",
 					"network": "TBS",
@@ -113,7 +114,7 @@
 					"correct2": ""
 				}
 			],
-			"east": [
+			"East": [
 				{
 					"date": "March 20",
 					"network": "CBS",
@@ -219,7 +220,7 @@
 					"correct2": ""
 				}
 			],
-			"south": [
+			"South": [
 				{
 					"date": "March 19",
 					"network": "truTV",
@@ -325,7 +326,7 @@
 					"correct2": ""
 				}
 			],
-			"midwest": [
+			"Midwest": [
 				{
 					"date": "March 19",
 					"network": "TBS",
@@ -433,7 +434,7 @@
 			]
 		},
 		"r32": {
-			"west": [
+			"West": [
 				{
 					"date": "March 22",
 					"network": "TBD",
@@ -487,7 +488,7 @@
 					"correct2": ""
 				}
 			],
-			"east": [
+			"East": [
 				{
 					"date": "March 22",
 					"network": "TBD",
@@ -541,7 +542,7 @@
 					"correct2": ""
 				}
 			],
-			"south": [
+			"South": [
 				{
 					"date": "March 21",
 					"network": "TBD",
@@ -595,7 +596,7 @@
 					"correct2": ""
 				}
 			],
-			"midwest": [
+			"Midwest": [
 				{
 					"date": "March 21",
 					"network": "TBD",
@@ -651,7 +652,7 @@
 			]
 		},
 		"s16": {
-			"west": [
+			"West": [
 				{
 					"date": "March 27/28",
 					"network": "TBD",
@@ -679,7 +680,7 @@
 					"correct2": ""
 				}
 			],
-			"east": [
+			"East": [
 				{
 					"date": "March 27/28",
 					"network": "TBD",
@@ -707,7 +708,7 @@
 					"correct2": ""
 				}
 			],
-			"south": [
+			"South": [
 				{
 					"date": "March 27/28",
 					"network": "TBD",
@@ -735,7 +736,7 @@
 					"correct2": ""
 				}
 			],
-			"midwest": [
+			"Midwest": [
 				{
 					"date": "March 27/28",
 					"network": "TBD",
@@ -765,7 +766,7 @@
 			]
 		},
 		"e8": {
-			"west": [
+			"West": [
 				{
 					"date": "March 29/30",
 					"network": "TBD",
@@ -780,7 +781,7 @@
 					"correct2": ""
 				}
 			],
-			"east": [
+			"East": [
 				{
 					"date": "March 29/30",
 					"network": "TBD",
@@ -795,7 +796,7 @@
 					"correct2": ""
 				}
 			],
-			"south": [
+			"South": [
 				{
 					"date": "March 29/30",
 					"network": "TBD",
@@ -810,7 +811,7 @@
 					"correct2": ""
 				}
 			],
-			"midwest": [
+			"Midwest": [
 				{
 					"date": "March 29/30",
 					"network": "TBD",
@@ -827,7 +828,7 @@
 			]
 		},
 		"f4": {
-			"eastwest": [
+			"EastWest": [
 				{
 					"date": "April 3",
 					"network": "CBS",
@@ -842,7 +843,7 @@
 					"correct2": ""
 				}
 			],
-			"southmidwest": [
+			"SouthMidwest": [
 				{
 					"date": "April 3",
 					"network": "CBS",

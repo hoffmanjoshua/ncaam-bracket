@@ -3,7 +3,8 @@
 		"year": 2022,
 		"name": "Josh",
 		"final_four_emoji": "🏀",
-		"tournament": "ncaam"
+		"tournament": "ncaam",
+		"regions": ["west", "east", "south", "midwest"]
 	},
 	"r64": {
 		"west": [

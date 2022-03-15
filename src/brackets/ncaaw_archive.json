@@ -4,10 +4,11 @@
 			"year": 2021,
 			"name": "Josh",
 			"final_four_emoji": "🏀",
-			"tournament": "ncaaw"
+			"tournament": "ncaaw",
+			"regions": ["Alamo", "Hemisfair", "RiverWalk", "Mercado"]
 		},
 		"r64": {
-			"south": [
+			"Alamo": [
 				{
 					"date": "March 21",
 					"network": "ESPN",
@@ -97,7 +98,7 @@
 					"pick": "team1"
 				}
 			],
-			"midwest": [
+			"Hemisfair": [
 				{
 					"date": "March 21",
 					"network": "ESPN",
@@ -187,7 +188,7 @@
 					"pick": "team1"
 				}
 			],
-			"east": [
+			"RiverWalk": [
 				{
 					"date": "March 21",
 					"network": "ESPN",
@@ -277,7 +278,7 @@
 					"pick": "team1"
 				}
 			],
-			"west": [
+			"Mercado": [
 				{
 					"date": "March 21",
 					"network": "ESPN",
@@ -369,7 +370,7 @@
 			]
 		},
 		"r32": {
-			"south": [
+			"Alamo": [
 				{
 					"date": "March 23/24",
 					"network": "TBD",
@@ -415,7 +416,7 @@
 					"pick": "team1"
 				}
 			],
-			"midwest": [
+			"Hemisfair": [
 				{
 					"date": "March 23/24",
 					"network": "TBD",
@@ -461,7 +462,7 @@
 					"pick": "team2"
 				}
 			],
-			"east": [
+			"RiverWalk": [
 				{
 					"date": "March 23/24",
 					"network": "TBD",
@@ -507,7 +508,7 @@
 					"pick": "team2"
 				}
 			],
-			"west": [
+			"Mercado": [
 				{
 					"date": "March 23/24",
 					"network": "TBD",
@@ -555,7 +556,7 @@
 			]
 		},
 		"s16": {
-			"south": [
+			"Alamo": [
 				{
 					"date": "March 27/28",
 					"network": "TBD",
@@ -579,7 +580,7 @@
 					"pick": "team2"
 				}
 			],
-			"midwest": [
+			"Hemisfair": [
 				{
 					"date": "March 27/28",
 					"network": "TBD",
@@ -603,7 +604,7 @@
 					"pick": "team2"
 				}
 			],
-			"east": [
+			"RiverWalk": [
 				{
 					"date": "March 27/28",
 					"network": "TBD",
@@ -627,7 +628,7 @@
 					"pick": "team1"
 				}
 			],
-			"west": [
+			"Mercado": [
 				{
 					"date": "March 27/28",
 					"network": "TBD",
@@ -653,7 +654,7 @@
 			]
 		},
 		"e8": {
-			"south": [
+			"Alamo": [
 				{
 					"date": "March 29/30",
 					"network": "TBD",
@@ -666,7 +667,7 @@
 					"pick": "team1"
 				}
 			],
-			"midwest": [
+			"Hemisfair": [
 				{
 					"date": "March 29/30",
 					"network": "TBD",
@@ -679,7 +680,7 @@
 					"pick": "team1"
 				}
 			],
-			"east": [
+			"RiverWalk": [
 				{
 					"date": "March 29/30",
 					"network": "TBD",
@@ -692,7 +693,7 @@
 					"pick": "team1"
 				}
 			],
-			"west": [
+			"Mercado": [
 				{
 					"date": "March 29/30",
 					"network": "TBD",
@@ -707,7 +708,7 @@
 			]
 		},
 		"f4": {
-			"southmidwest": [
+			"AlamoHemisfair": [
 				{
 					"date": "April 2",
 					"network": "ESPN",
@@ -720,7 +721,7 @@
 					"pick": "team1"
 				}
 			],
-			"eastwest": [
+			"RiverWalkMercado": [
 				{
 					"date": "April 2",
 					"network": "ESPN",

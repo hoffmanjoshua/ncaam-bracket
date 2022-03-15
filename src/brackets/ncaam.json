@@ -3,10 +3,117 @@
 		"year": 2022,
 		"name": "Josh",
 		"final_four_emoji": "⚜️",
-		"tournament": "NCAAM"
+		"tournament": "NCAAM",
+		"regions": ["East", "West", "South", "Midwest"]
 	},
 	"r64": {
-		"west": [
+		"West": [
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Gonzaga",
+				"team1img": "gonz.png",
+				"team1seed": "1",
+				"team2": "Georgia State",
+				"team2img": "gast.png",
+				"team2seed": "16",
+				"pick": "team1",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Boise State",
+				"team1img": "boise.png",
+				"team1seed": "8",
+				"team2": "Memphis",
+				"team2img": "memphis.png",
+				"team2seed": "9",
+				"pick": "team1",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "UConn",
+				"team1img": "conn.png",
+				"team1seed": "5",
+				"team2": "New Mexico St.",
+				"team2img": "nmst.png",
+				"team2seed": "12",
+				"pick": "team1",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Arkansas",
+				"team1img": "ark.png",
+				"team1seed": "4",
+				"team2": "Vermont",
+				"team2img": "vermont.png",
+				"team2seed": "13",
+				"pick": "team2",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Alabama",
+				"team1img": "ala.png",
+				"team1seed": "6",
+				"team2": "Rutg/ND",
+				"team2img": "ncaa.png",
+				"team2seed": "11",
+				"pick": "team2",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Texas Tech",
+				"team1img": "ttu.png",
+				"team1seed": "3",
+				"team2": "Montana State",
+				"team2img": "mtst.png",
+				"team2seed": "14",
+				"pick": "team1",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Michigan State",
+				"team1img": "msu.png",
+				"team1seed": "7",
+				"team2": "Davidson",
+				"team2img": "davidson.png",
+				"team2seed": "10",
+				"pick": "team2",
+				"correct1": "",
+				"correct2": ""
+			},
+			{
+				"date": "TBD",
+				"network": "TBD",
+				"team1": "Duke",
+				"team1img": "duke.png",
+				"team1seed": "2",
+				"team2": "CSU Fullerton",
+				"team2img": "csuf.png",
+				"team2seed": "15",
+				"pick": "team1",
+				"correct1": "",
+				"correct2": ""
+			}
+		],
+		"East": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -112,7 +219,7 @@
 				"correct2": ""
 			}
 		],
-		"east": [
+		"South": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -218,113 +325,7 @@
 				"correct2": ""
 			}
 		],
-		"south": [
-			{
-				"date": "TBD",
-				"network": "TBD",
-				"team1": "Team 1",
-				"team1img": "ncaa.png",
-				"team1seed": "1",
-				"team2": "Team 2",
-				"team2img": "ncaa.png",
-				"team2seed": "16",
-				"pick": "",
-				"correct1": "",
-				"correct2": ""
-			},
-			{
-				"date": "TBD",
-				"network": "TBD",
-				"team1": "Team 1",
-				"team1img": "ncaa.png",
-				"team1seed": "8",
-				"team2": "Team 2",
-				"team2img": "ncaa.png",
-				"team2seed": "9",
-				"pick": "",
-				"correct1": "",
-				"correct2": ""
-			},
-			{
-				"date": "TBD",
-				"network": "TBD",
-				"team1": "Team 1",
-				"team1img": "ncaa.png",
-				"team1seed": "5",
-				"team2": "Team 2",
-				"team2img": "ncaa.png",
-				"team2seed": "12",
-				"pick": "",
-				"correct1": "",
-				"correct2": ""
-			},
-			{
-				"date": "TBD",
-				"network": "TBD",
-				"team1": "Team 1",
-				"team1img": "ncaa.png",
-				"team1seed": "4",
-				"team2": "Team 2",
-				"team2img": "ncaa.png",
-				"team2seed": "13",
-				"pick": "",
-				"correct1": "",
-				"correct2": ""
-			},
-			{
-				"date": "TBD",
-				"network": "TBD",
-				"team1": "Team 1",
-				"team1img": "ncaa.png",
-				"team1seed": "6",
-				"team2": "Team 2",
-				"team2img": "ncaa.png",
-				"team2seed": "11",
-				"pick": "",
-				"correct1": "",
-				"correct2": ""
-			},
-			{
-				"date": "TBD",
-				"network": "TBD",
-				"team1": "Team 1",
-				"team1img": "ncaa.png",
-				"team1seed": "3",
-				"team2": "Team 2",
-				"team2img": "ncaa.png",
-				"team2seed": "14",
-				"pick": "",
-				"correct1": "",
-				"correct2": ""
-			},
-			{
-				"date": "TBD",
-				"network": "TBD",
-				"team1": "Team 1",
-				"team1img": "ncaa.png",
-				"team1seed": "7",
-				"team2": "Team 2",
-				"team2img": "ncaa.png",
-				"team2seed": "10",
-				"pick": "",
-				"correct1": "",
-				"correct2": ""
-			},
-			{
-				"date": "TBD",
-				"network": "TBD",
-				"team1": "Team 1",
-				"team1img": "ncaa.png",
-				"team1seed": "2",
-				"team2": "Team 2",
-				"team2img": "ncaa.png",
-				"team2seed": "15",
-				"pick": "",
-				"correct1": "",
-				"correct2": ""
-			}
-		],
-		"midwest": [
+		"Midwest": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -432,7 +433,7 @@
 		]
 	},
 	"r32": {
-		"west": [
+		"West": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -486,7 +487,7 @@
 				"correct2": ""
 			}
 		],
-		"east": [
+		"East": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -540,7 +541,7 @@
 				"correct2": ""
 			}
 		],
-		"south": [
+		"South": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -594,7 +595,7 @@
 				"correct2": ""
 			}
 		],
-		"midwest": [
+		"Midwest": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -650,7 +651,7 @@
 		]
 	},
 	"s16": {
-		"west": [
+		"West": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -678,7 +679,7 @@
 				"correct2": ""
 			}
 		],
-		"east": [
+		"East": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -706,7 +707,7 @@
 				"correct2": ""
 			}
 		],
-		"south": [
+		"South": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -734,7 +735,7 @@
 				"correct2": ""
 			}
 		],
-		"midwest": [
+		"Midwest": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -764,7 +765,7 @@
 		]
 	},
 	"e8": {
-		"west": [
+		"West": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -779,7 +780,7 @@
 				"correct2": ""
 			}
 		],
-		"east": [
+		"East": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -794,7 +795,7 @@
 				"correct2": ""
 			}
 		],
-		"south": [
+		"South": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -809,7 +810,7 @@
 				"correct2": ""
 			}
 		],
-		"midwest": [
+		"Midwest": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -826,7 +827,7 @@
 		]
 	},
 	"f4": {
-		"eastwest": [
+		"EastWest": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -841,7 +842,7 @@
 				"correct2": ""
 			}
 		],
-		"southmidwest": [
+		"SouthMidwest": [
 			{
 				"date": "TBD",
 				"network": "TBD",

@@ -3,10 +3,11 @@
 		"year": 2022,
 		"name": "Josh",
 		"final_four_emoji": "🏀",
-		"tournament": "NCAAW"
+		"tournament": "NCAAW",
+		"regions": ["Greensboro", "Wichita", "Spokane", "Bridgeport"]
 	},
 	"r64": {
-		"west": [
+		"Greensboro": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -112,7 +113,7 @@
 				"correct2": ""
 			}
 		],
-		"east": [
+		"Spokane": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -218,7 +219,7 @@
 				"correct2": ""
 			}
 		],
-		"south": [
+		"Wichita": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -324,7 +325,7 @@
 				"correct2": ""
 			}
 		],
-		"midwest": [
+		"Bridgeport": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -432,7 +433,7 @@
 		]
 	},
 	"r32": {
-		"west": [
+		"Greensboro": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -486,7 +487,7 @@
 				"correct2": ""
 			}
 		],
-		"east": [
+		"Spokane": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -540,7 +541,7 @@
 				"correct2": ""
 			}
 		],
-		"south": [
+		"Wichita": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -594,7 +595,7 @@
 				"correct2": ""
 			}
 		],
-		"midwest": [
+		"Bridgeport": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -650,7 +651,7 @@
 		]
 	},
 	"s16": {
-		"west": [
+		"Greensboro": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -678,7 +679,7 @@
 				"correct2": ""
 			}
 		],
-		"east": [
+		"Spokane": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -706,7 +707,7 @@
 				"correct2": ""
 			}
 		],
-		"south": [
+		"Wichita": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -734,7 +735,7 @@
 				"correct2": ""
 			}
 		],
-		"midwest": [
+		"Bridgeport": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -764,7 +765,7 @@
 		]
 	},
 	"e8": {
-		"west": [
+		"Greensboro": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -779,7 +780,7 @@
 				"correct2": ""
 			}
 		],
-		"east": [
+		"Spokane": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -794,7 +795,7 @@
 				"correct2": ""
 			}
 		],
-		"south": [
+		"Wichita": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -809,7 +810,7 @@
 				"correct2": ""
 			}
 		],
-		"midwest": [
+		"Bridgeport": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -826,7 +827,7 @@
 		]
 	},
 	"f4": {
-		"eastwest": [
+		"GreensboroWichita": [
 			{
 				"date": "TBD",
 				"network": "TBD",
@@ -841,7 +842,7 @@
 				"correct2": ""
 			}
 		],
-		"southmidwest": [
+		"SpokaneBridgeport": [
 			{
 				"date": "TBD",
 				"network": "TBD",

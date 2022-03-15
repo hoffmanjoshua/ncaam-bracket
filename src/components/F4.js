@@ -6,14 +6,14 @@ const F4 = ({ data }) => {
 		<div>
 			<div className="row">
 				<div className="col-md-6 col-sm-12">
-					<h2>West/East</h2>
-					{data.f4.eastwest.map((game, index) => (
+					<h2>{data.info.regions[0]}/{data.info.regions[1]}</h2>
+					{data.f4[data.info.regions[0] + data.info.regions[1]].map((game, index) => (
 						<GameCard gameData={game}></GameCard>
 					))}
 				</div>
 				<div className="col-md-6 col-sm-12">
-					<h2>South/Midwest</h2>
-					{data.f4.southmidwest.map((game, index) => (
+					<h2>{data.info.regions[2]}/{data.info.regions[3]}</h2>
+					{data.f4[data.info.regions[2] + data.info.regions[3]].map((game, index) => (
 						<GameCard gameData={game}></GameCard>
 					))}
 				</div>
