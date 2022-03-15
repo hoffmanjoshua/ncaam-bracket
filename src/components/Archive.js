@@ -32,18 +32,18 @@ function Archive() {
 					<tr>
 						<td>2022</td>
 						<td>NCAAM</td>
-						<td class="text-right"><Link className="btn" to="/m">Load</Link></td>
+						<td class="text-right"><Link className="btn btn-primary" to="/m">Load</Link></td>
 					</tr>
 					<tr>
 						<td>2022</td>
 						<td>NCAAW</td>
-						<td class="text-right"><Link className="btn" to="/w">Load</Link></td>
+						<td class="text-right"><Link className="btn btn-primary" to="/w">Load</Link></td>
 					</tr>
 					{archive.map((entry, index) => 
 						<tr>
 							<td>{entry.year}</td>
 							<td>{entry.type}</td>
-							<td class="text-right"><Link className="btn" to={entry.path}>Load</Link></td>
+							<td class="text-right"><Link className="btn btn-primary" to={entry.path}>Load</Link></td>
 						</tr>
 					)}
 				</tbody>
