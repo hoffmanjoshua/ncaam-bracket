@@ -4,30 +4,46 @@ import GameCard from "./GameCard.js";
 const E8 = ({ data }) => {
 	return (
 		<div className="row">
-			<div className="col-lg-3 col-md-6 col-sm-12">
+			<section className="col-lg-3 col-md-6 col-sm-12">
 				<h2>{data.info.regions[0]}</h2>
-				{data.e8[data.info.regions[0]].map((game, index) => (
-					<GameCard gameData={game}></GameCard>
-				))}
-			</div>
-			<div className="col-lg-3 col-md-6 col-sm-12">
+				<ul>
+					<li>
+						{data.e8[data.info.regions[0]].map((game, index) => (
+							<GameCard gameData={game}></GameCard>
+						))}
+					</li>
+				</ul>
+			</section>
+			<section className="col-lg-3 col-md-6 col-sm-12">
 				<h2>{data.info.regions[1]}</h2>
-				{data.e8[data.info.regions[1]].map((game, index) => (
-					<GameCard gameData={game}></GameCard>
-				))}
-			</div>
-			<div className="col-lg-3 col-md-6 col-sm-12">
+				<ul>
+					<li>
+						{data.e8[data.info.regions[1]].map((game, index) => (
+							<GameCard gameData={game}></GameCard>
+						))}
+					</li>
+				</ul>
+			</section>
+			<section className="col-lg-3 col-md-6 col-sm-12">
 				<h2>{data.info.regions[2]}</h2>
-				{data.e8[data.info.regions[2]].map((game, index) => (
-					<GameCard gameData={game}></GameCard>
-				))}
-			</div>
-			<div className="col-lg-3 col-md-6 col-sm-12">
+				<ul>
+					<li>
+						{data.e8[data.info.regions[2]].map((game, index) => (
+							<GameCard gameData={game}></GameCard>
+						))}
+					</li>
+				</ul>
+			</section>
+			<section className="col-lg-3 col-md-6 col-sm-12">
 				<h2>{data.info.regions[3]}</h2>
-				{data.e8[data.info.regions[3]].map((game, index) => (
-					<GameCard gameData={game}></GameCard>
-				))}
-			</div>
+				<ul>
+					<li>
+						{data.e8[data.info.regions[3]].map((game, index) => (
+							<GameCard gameData={game}></GameCard>
+						))}
+					</li>
+				</ul>
+			</section>
 		</div>
 	);
 };

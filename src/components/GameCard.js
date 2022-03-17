@@ -37,6 +37,7 @@ const GameCard = ({ gameData }) => {
 									data-toggle="tooltip"
 									data-title="Josh's Pick"
 									aria-label="Josh's Pick"
+									role="tooltip"
 								>
 									J
 								</span>
@@ -77,6 +78,7 @@ const GameCard = ({ gameData }) => {
 									data-toggle="tooltip"
 									data-title="Josh's Pick"
 									aria-label="Josh's Pick"
+									role="tooltip"
 								>
 									J
 								</span>
