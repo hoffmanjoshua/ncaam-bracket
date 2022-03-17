@@ -3,9 +3,9 @@ import React from "react";
 const GameCard = ({ gameData }) => {
 	return (
 		<div className="card gamecard is-fluid">
-			<div className="card-title mb-10">
+			<h3 className="card-title mb-10">
 				{gameData.date} — {gameData.network}
-			</div>
+			</h3>
 			<div className="card-body">
 				<div className="has-text-weight-medium is-size-5">
 					<div className="d-flex align-items-center">
@@ -13,7 +13,7 @@ const GameCard = ({ gameData }) => {
 							<img
 								src={"/logos/" + gameData.team1img}
 								className="school-icon"
-								alt="School Icon"
+								alt=""
 							/>
 						</div>
 						<div>
@@ -36,6 +36,7 @@ const GameCard = ({ gameData }) => {
 									className="josh-prediction"
 									data-toggle="tooltip"
 									data-title="Josh's Pick"
+									aria-label="Josh's Pick"
 								>
 									J
 								</span>
@@ -75,6 +76,7 @@ const GameCard = ({ gameData }) => {
 									className="josh-prediction"
 									data-toggle="tooltip"
 									data-title="Josh's Pick"
+									aria-label="Josh's Pick"
 								>
 									J
 								</span>
