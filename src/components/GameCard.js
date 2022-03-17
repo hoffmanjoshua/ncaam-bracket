@@ -54,6 +54,7 @@ const GameCard = ({ gameData }) => {
 							<img
 								src={"/logos/" + gameData.team2img}
 								className="school-icon"
+								alt=""
 							/>
 						</div>
 						<div>
