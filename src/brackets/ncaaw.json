@@ -9,8 +9,8 @@
 	"r64": {
 		"Greensboro": [
 			{
-				"date": "TBD",
-				"network": "TBD",
+				"date": "Mar. 18",
+				"network": "ESPN",
 				"team1": "South Carolina",
 				"team1img": "sc.png",
 				"team1seed": "1",
@@ -22,8 +22,8 @@
 				"correct2": ""
 			},
 			{
-				"date": "TBD",
-				"network": "TBD",
+				"date": "Mar. 18",
+				"network": "ESPN2",
 				"team1": "Miami",
 				"team1img": "miami.png",
 				"team1seed": "8",
@@ -35,8 +35,8 @@
 				"correct2": ""
 			},
 			{
-				"date": "TBD",
-				"network": "TBD",
+				"date": "Mar. 19",
+				"network": "ESPNews",
 				"team1": "North Carolina",
 				"team1img": "unc.png",
 				"team1seed": "5",
@@ -48,8 +48,8 @@
 				"correct2": ""
 			},
 			{
-				"date": "TBD",
-				"network": "TBD",
+				"date": "Mar. 19",
+				"network": "ESPN2",
 				"team1": "Arizona",
 				"team1img": "ariz.png",
 				"team1seed": "4",
@@ -61,8 +61,8 @@
 				"correct2": ""
 			},
 			{
-				"date": "TBD",
-				"network": "TBD",
+				"date": "Mar. 18",
+				"network": "ESPNews",
 				"team1": "Georgia",
 				"team1img": "uga.png",
 				"team1seed": "6",
@@ -74,8 +74,8 @@
 				"correct2": ""
 			},
 			{
-				"date": "TBD",
-				"network": "TBD",
+				"date": "Mar. 18",
+				"network": "ESPNU",
 				"team1": "Iowa State",
 				"team1img": "isu.png",
 				"team1seed": "3",
@@ -87,8 +87,8 @@
 				"correct2": ""
 			},
 			{
-				"date": "TBD",
-				"network": "TBD",
+				"date": "Mar. 18",
+				"network": "ESPNews",
 				"team1": "Colorado",
 				"team1img": "colo.png",
 				"team1seed": "7",
@@ -100,8 +100,8 @@
 				"correct2": ""
 			},
 			{
-				"date": "TBD",
-				"network": "TBD",
+				"date": "Mar. 18",
+				"network": "ESPN",
 				"team1": "Iowa",
 				"team1img": "iowa.png",
 				"team1seed": "2",
@@ -115,8 +115,8 @@
 		],
 		"Wichita": [
 			{
-				"date": "TBD",
-				"network": "TBD",
+				"date": "Mar. 18",
+				"network": "ESPN2",
 				"team1": "Louisville",
 				"team1img": "lou.png",
 				"team1seed": "1",
@@ -128,8 +128,8 @@
 				"correct2": ""
 			},
 			{
-				"date": "TBD",
-				"network": "TBD",
+				"date": "Mar. 18",
+				"network": "ESPNews",
 				"team1": "Nebraska",
 				"team1img": "neb.png",
 				"team1seed": "8",
@@ -141,8 +141,8 @@
 				"correct2": ""
 			},
 			{
-				"date": "TBD",
-				"network": "TBD",
+				"date": "Mar. 19",
+				"network": "ESPN2",
 				"team1": "Oregon",
 				"team1img": "ore.png",
 				"team1seed": "5",
@@ -154,8 +154,8 @@
 				"correct2": ""
 			},
 			{
-				"date": "TBD",
-				"network": "TBD",
+				"date": "Mar. 19",
+				"network": "ABC",
 				"team1": "Tennessee",
 				"team1img": "tenn.png",
 				"team1seed": "4",
@@ -167,8 +167,8 @@
 				"correct2": ""
 			},
 			{
-				"date": "TBD",
-				"network": "TBD",
+				"date": "Mar. 19",
+				"network": "ESPNews",
 				"team1": "BYU",
 				"team1img": "byu.png",
 				"team1seed": "6",
@@ -180,8 +180,8 @@
 				"correct2": ""
 			},
 			{
-				"date": "TBD",
-				"network": "TBD",
+				"date": "Mar. 19",
+				"network": "ESPN2",
 				"team1": "Michigan",
 				"team1img": "mich.png",
 				"team1seed": "3",
@@ -193,8 +193,8 @@
 				"correct2": ""
 			},
 			{
-				"date": "TBD",
-				"network": "TBD",
+				"date": "Mar. 18",
+				"network": "ESPN2",
 				"team1": "Ole Miss",
 				"team1img": "olemiss.png",
 				"team1seed": "7",
@@ -206,8 +206,8 @@
 				"correct2": ""
 			},
 			{
-				"date": "TBD",
-				"network": "TBD",
+				"date": "Mar. 18",
+				"network": "ESPN2",
 				"team1": "Baylor",
 				"team1img": "bay.png",
 				"team1seed": "2",
@@ -221,8 +221,8 @@
 		],
 		"Spokane": [
 			{
-				"date": "TBD",
-				"network": "TBD",
+				"date": "Mar. 18",
+				"network": "ESPN2",
 				"team1": "Stanford",
 				"team1img": "stan.png",
 				"team1seed": "1",
@@ -234,8 +234,8 @@
 				"correct2": ""
 			},
 			{
-				"date": "TBD",
-				"network": "TBD",
+				"date": "Mar. 18",
+				"network": "ESPNU",
 				"team1": "Kansas",
 				"team1img": "ku.png",
 				"team1seed": "8",
@@ -247,8 +247,8 @@
 				"correct2": ""
 			},
 			{
-				"date": "TBD",
-				"network": "TBD",
+				"date": "Mar. 18",
+				"network": "ESPNU",
 				"team1": "Virginia Tech",
 				"team1img": "vt.png",
 				"team1seed": "5",
@@ -260,8 +260,8 @@
 				"correct2": ""
 			},
 			{
-				"date": "TBD",
-				"network": "TBD",
+				"date": "Mar. 18",
+				"network": "ESPNU",
 				"team1": "Maryland",
 				"team1img": "md.png",
 				"team1seed": "4",
@@ -273,8 +273,8 @@
 				"correct2": ""
 			},
 			{
-				"date": "TBD",
-				"network": "TBD",
+				"date": "Mar. 19",
+				"network": "ESPNU",
 				"team1": "Ohio State",
 				"team1img": "osu.png",
 				"team1seed": "6",
@@ -286,8 +286,8 @@
 				"correct2": ""
 			},
 			{
-				"date": "TBD",
-				"network": "TBD",
+				"date": "Mar. 19",
+				"network": "ESPNU",
 				"team1": "LSU",
 				"team1img": "lsu.png",
 				"team1seed": "3",
@@ -299,8 +299,8 @@
 				"correct2": ""
 			},
 			{
-				"date": "TBD",
-				"network": "TBD",
+				"date": "Mar. 18",
+				"network": "ESPNews",
 				"team1": "Utah",
 				"team1img": "uta.png",
 				"team1seed": "7",
@@ -312,8 +312,8 @@
 				"correct2": ""
 			},
 			{
-				"date": "TBD",
-				"network": "TBD",
+				"date": "Mar. 18",
+				"network": "ESPN2",
 				"team1": "Texas",
 				"team1img": "tex.png",
 				"team1seed": "2",
@@ -327,8 +327,8 @@
 		],
 		"Bridgeport": [
 			{
-				"date": "TBD",
-				"network": "TBD",
+				"date": "Mar. 19",
+				"network": "ESPN",
 				"team1": "NC State",
 				"team1img": "ncst.png",
 				"team1seed": "1",
@@ -340,8 +340,8 @@
 				"correct2": ""
 			},
 			{
-				"date": "TBD",
-				"network": "TBD",
+				"date": "Mar. 19",
+				"network": "ESPN2",
 				"team1": "Washington State",
 				"team1img": "wsu.png",
 				"team1seed": "8",
@@ -353,8 +353,8 @@
 				"correct2": ""
 			},
 			{
-				"date": "TBD",
-				"network": "TBD",
+				"date": "Mar. 19",
+				"network": "ESPN2",
 				"team1": "Notre Dame",
 				"team1img": "nd.png",
 				"team1seed": "5",
@@ -366,8 +366,8 @@
 				"correct2": ""
 			},
 			{
-				"date": "TBD",
-				"network": "TBD",
+				"date": "Mar. 19",
+				"network": "ESPNU",
 				"team1": "Oklahoma",
 				"team1img": "ou.png",
 				"team1seed": "4",
@@ -379,8 +379,8 @@
 				"correct2": ""
 			},
 			{
-				"date": "TBD",
-				"network": "TBD",
+				"date": "Mar. 19",
+				"network": "ESPN",
 				"team1": "Kentucky",
 				"team1img": "uk.png",
 				"team1seed": "6",
@@ -392,8 +392,8 @@
 				"correct2": ""
 			},
 			{
-				"date": "TBD",
-				"network": "TBD",
+				"date": "Mar. 19",
+				"network": "ESPN2",
 				"team1": "Indiana",
 				"team1img": "iu.png",
 				"team1seed": "3",
@@ -405,8 +405,8 @@
 				"correct2": ""
 			},
 			{
-				"date": "TBD",
-				"network": "TBD",
+				"date": "Mar. 19",
+				"network": "ESPNews",
 				"team1": "Central Florida",
 				"team1img": "ucf.png",
 				"team1seed": "7",
@@ -418,8 +418,8 @@
 				"correct2": ""
 			},
 			{
-				"date": "TBD",
-				"network": "TBD",
+				"date": "Mar. 19",
+				"network": "ABC",
 				"team1": "UConn",
 				"team1img": "conn.png",
 				"team1seed": "2",
